@@ -1,0 +1,3 @@
+Widget, 19.99, 10
+Gadget, 29.95, 5
+Thingamajig, 9.99, 3
