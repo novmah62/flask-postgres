@@ -20,7 +20,6 @@ def main():
     try:
         with open(input_file, 'r') as file:
             for line in file:
-                # Skip empty lines
                 if not line.strip():
                     continue
                 parts = line.strip().split(',')
